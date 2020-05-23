@@ -1,0 +1,2472 @@
+{
+    "warnings": [],
+    "errors": [],
+    "data": {
+        "flight": {
+            "marketingAirlineCode": "AC",
+            "operatingAirlineCode": null,
+            "operatingAirlineName": null,
+            "marketingFlightNumber": "7561",
+            "operatingAirlineFlightNumber": null,
+            "departure": {
+                "locationCode": "YUL",
+                "dateTime": null,
+                "estimatedDateTime": null
+            },
+            "arrival": {
+                "locationCode": "YYZ",
+                "dateTime": null,
+                "estimatedDateTime": null
+            },
+            "aircraftCode": "E75",
+            "aircraftConfigurationVersion": "EB1",
+            "cabin": "eco"
+        },
+        "seatmaps": [{
+            "computedCoordinates": true,
+            "decks": [{
+                "deckType": "main",
+                "deckDimensions": {
+                    "width": 5,
+                    "length": 18,
+                    "startWingsX": 2,
+                    "endWingsX": 10,
+                    "exitRowsX": [17]
+                },
+                "blocks": null,
+                "firstAvailableSeat": {
+                    "seatNumber": "12A",
+                    "x": 1.0
+                },
+                "cheapestSeat": {
+                    "cabin": "eco",
+                    "seatNumber": "12C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["A", "CH", "EC", "K", "L", "M"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                },
+                "facilities": [{
+                    "code": "LA",
+                    "facilityType": null,
+                    "column": "A",
+                    "row": "27",
+                    "position": "rear",
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 18.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "code": "GN",
+                    "facilityType": null,
+                    "column": "F",
+                    "row": "27",
+                    "position": "rear",
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 18.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }],
+                "seats": [{
+                    "cabin": "eco",
+                    "seatNumber": "12A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "K", "L", "O", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 1.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "12C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["A", "CH", "EC", "K", "L", "M"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "12D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "K", "L", "O"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 1.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "12F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "K", "L", "O", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 1.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "13A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "O", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 2.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "13C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "O", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 2.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "13D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "O", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 2.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "13F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "O", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 2.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "14A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "O", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "14C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "O", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 3.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "14D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "O", "OW", "PC"],
+                        "seatAvailabilityStatus": "occupied",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 3.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "14F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "O", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 2000,
+                            "total": 2300,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 300,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": null
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 3.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "15A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "occupied",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "15C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 4.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "15D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "occupied",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 4.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "15F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "occupied",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 4.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "16A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "occupied",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "16C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "occupied",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 5.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "16D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 5.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "16F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 5.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "17A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 6.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "17C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "17D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 6.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "17F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 6.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "18A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 7.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "18C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 7.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "18D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 7.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "18F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 7.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "19A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "19C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 8.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "19D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 8.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "19F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 8.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "20A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 9.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "20C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 9.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "20D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 9.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "20F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 9.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "21A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 10.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "21C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 10.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "21D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "OW", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 10.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "21F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "OW", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 10.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "22A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "22C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 11.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "22D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 11.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "22F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 11.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "23A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 12.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "23C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 12.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "23D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 12.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "23F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 12.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "24A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 13.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "24C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 13.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "24D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 13.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "24F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 13.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "25A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "U", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 14.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "25C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC", "U"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 14.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "25D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC", "U"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 14.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "25F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "U", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 14.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "26A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "U", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 15.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "26C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC", "U"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 15.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "26D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC", "U"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 15.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "26F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "U", "W"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 15.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "27A",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["1", "3", "C", "CH", "EC", "PC", "W"],
+                        "seatAvailabilityStatus": "blocked",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 16.0,
+                        "y": 0.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "27C",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["1", "3", "A", "C", "CH", "EC", "H", "PC"],
+                        "seatAvailabilityStatus": "blocked",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 16.0,
+                        "y": 1.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "27D",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "A", "CH", "EC", "H", "PC", "U"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 16.0,
+                        "y": 3.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }, {
+                    "cabin": "eco",
+                    "seatNumber": "27F",
+                    "seatCharacteristicsCodes": null,
+                    "isInfantOnSeat": null,
+                    "seatAvailabilityStatus": null,
+                    "travelers": [{
+                        "id": "PT2",
+                        "tid": null,
+                        "seatCharacteristicsCodes": ["3", "CH", "EC", "PC", "U", "W", "X"],
+                        "seatAvailabilityStatus": "available",
+                        "prices": [{
+                            "base": 0,
+                            "total": 0,
+                            "currencyCode": "CAD",
+                            "taxes": null,
+                            "totalTaxes": 0,
+                            "surcharges": null,
+                            "totalSurcharges": null,
+                            "fees": null,
+                            "totalFees": null,
+                            "discount": null
+                        }],
+                        "media": null,
+                        "isExempted": true
+                    }],
+                    "blockId": null,
+                    "seatType": null,
+                    "coordinates": {
+                        "zrotation": null,
+                        "x": 16.0,
+                        "y": 4.0,
+                        "z": null,
+                        "zRotation": null
+                    }
+                }]
+            }],
+            "coordinates": {
+                "translationUnit": null,
+                "rotationUnit": null
+            }
+        }],
+        "seatSelections": null
+    },
+    "dictionaries": {
+        "location": {
+            "YUL": {
+                "type": "airport",
+                "airportName": "YUL",
+                "cityCode": "YMQ",
+                "cityName": "MONTREAL",
+                "stateCode": "QC",
+                "countryCode": "CA"
+            },
+            "YYZ": {
+                "type": "airport",
+                "airportName": "YYZ",
+                "cityCode": "YTO",
+                "cityName": "TORONTO",
+                "stateCode": "ON",
+                "countryCode": "CA"
+            }
+        },
+        "country": {
+            "CA": "CANADA"
+        },
+        "airline": {
+            "AC": "AIR CANADA"
+        },
+        "aircraft": {
+            "E75": "EMBRAER 175"
+        },
+        "tax": null,
+        "currency": {
+            "CAD": {
+                "name": "CANADIAN DOLLAR",
+                "decimalPlaces": 2,
+                "conversionRates": null
+            }
+        },
+        "facility": {
+            "LA": "Lavatory",
+            "GN": "Galley"
+        },
+        "seatCharacteristic": {
+            "A": {
+                "code": "A",
+                "name": "Aisle seat"
+            },
+            "C": {
+                "code": "C",
+                "name": "Crew seat"
+            },
+            "CH": {
+                "code": "CH",
+                "name": "Chargeable seat"
+            },
+            "OW": {
+                "code": "OW",
+                "name": "Overwing seat(s)"
+            },
+            "H": {
+                "code": "H",
+                "name": "Seat with facilities for handicapped/incapacitated passenger"
+            },
+            "K": {
+                "code": "K",
+                "name": "Bulkhead seat"
+            },
+            "L": {
+                "code": "L",
+                "name": "Leg space seat"
+            },
+            "M": {
+                "code": "M",
+                "name": "Seat without a movie view"
+            },
+            "O": {
+                "code": "O",
+                "name": "Preferential seat"
+            },
+            "1": {
+                "code": "1",
+                "name": "Restricted seat - General"
+            },
+            "3": {
+                "code": "3",
+                "name": "Individual video screen - Choice of movies"
+            },
+            "PC": {
+                "code": "PC",
+                "name": "Pet cabin"
+            },
+            "U": {
+                "code": "U",
+                "name": "Seat suitable for unaccompanied minors"
+            },
+            "W": {
+                "code": "W",
+                "name": "Window seat"
+            },
+            "X": {
+                "code": "X",
+                "name": "No facility seat (indifferent seat)"
+            },
+            "EC": {
+                "code": "EC",
+                "name": "Electronic connection for lap top or FAX machine"
+            }
+        },
+        "discount": null,
+        "anonymousTraveler": null
+    },
+    "meta": {
+        "flightId": "ST1",
+        "ignoreOriginalSeatSelection": null,
+        "isSeatPromoCodeApplied": null,
+        "seatPromoCode": null,
+        "todaysDateInGMT": "2020-03-16T08:56:29.29Z",
+        "SESSION_TIMEOUT_VALUE": 900,
+        "TAB_ID": "NHAT1umytqN7B6QdhDpp8-2b86lnTzvys2e_5bwogjUAwtlOMvWT!781580222!2092853064!1584348822996"
+    },
+    "analytics": []
+}

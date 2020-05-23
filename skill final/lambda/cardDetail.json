@@ -1,0 +1,10 @@
+{
+	"paymentMethod": {
+		"paymentType": "PaymentCard",
+		"vendorCode": "VI",
+		"cardNumber": "5111 0100 3017 5156",
+		"expiryDate": "0220",
+		"holderName": "TATIANA ROJAS",
+		"cvv": "881"
+	}
+}
